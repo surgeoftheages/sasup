@@ -36,6 +36,24 @@
     "dailyMinutesDown": {}
   },
   {
+    "name": "AuroPublications",
+    "url": "https://auropublications.org",
+    "icon": "https://icons.duckduckgo.com/ip3/auropublications.org.ico",
+    "slug": "auro-publications",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1803,
+    "timeDay": 1803,
+    "timeWeek": 1803,
+    "timeMonth": 1803,
+    "timeYear": 1803,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "Renaissance",
     "url": "https://journal.aurobharati.in",
     "icon": "https://icons.duckduckgo.com/ip3/journal.aurobharati.in.ico",
@@ -70,7 +88,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-28": 6
+      "2023-08-28": 24
     }
   }
 ]
