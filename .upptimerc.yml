@@ -34,4 +34,4 @@ status-website:
 # See https://upptime.js.org/docs/configuration
 
 i18n:
-  footer: This page is [open source]($REPO), powered by [SAS IT team](https://aurosociety.org)
+  footer: This page is powered by [SAS IT team](https://aurosociety.org)
