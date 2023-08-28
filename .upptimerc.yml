@@ -19,7 +19,8 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: ebook.aurosociety.org
   baseUrl: /sasup
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  #logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://ebook.aurosociety.org/sasup/sas-symbol.png
   name: Sri Aurobindo Society - UpTime
   introTitle: "You can see here all the service availability status"
   introMessage: This is a status tracking page which uses **real-time** data
