@@ -88,7 +88,61 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-08-28": 24
+      "2023-08-28": 473
     }
+  },
+  {
+    "name": "INGH",
+    "url": "https://internationalgh.com/",
+    "icon": "https://icons.duckduckgo.com/ip3/internationalgh.com.ico",
+    "slug": "ingh",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1454,
+    "timeDay": 1454,
+    "timeWeek": 1454,
+    "timeMonth": 1454,
+    "timeYear": 1454,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Sea Side GH",
+    "url": "https://seasidegh.com/",
+    "icon": "https://icons.duckduckgo.com/ip3/seasidegh.com.ico",
+    "slug": "sea-side-gh",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2127,
+    "timeDay": 2127,
+    "timeWeek": 2127,
+    "timeMonth": 2127,
+    "timeYear": 2127,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Retreat GH",
+    "url": "http://theretreatgh.com/",
+    "icon": "https://icons.duckduckgo.com/ip3/theretreatgh.com.ico",
+    "slug": "retreat-gh",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1675,
+    "timeDay": 1675,
+    "timeWeek": 1675,
+    "timeMonth": 1675,
+    "timeYear": 1675,
+    "dailyMinutesDown": {}
   }
 ]
