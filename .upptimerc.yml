@@ -13,6 +13,12 @@ sites:
     url: https://journal.aurobharati.in
   - name: Sanjeevan
     url: https://sanjeevanpalliativecare.org/
+  - name: INGH
+    url: https://internationalgh.com/
+  - name: Sea Side GH
+    url: https://seasidegh.com/
+  - name: Retreat GH
+    url: http://theretreatgh.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
