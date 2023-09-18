@@ -4,10 +4,10 @@
     "url": "https://aurosociety.org",
     "icon": "https://icons.duckduckgo.com/ip3/aurosociety.org.ico",
     "slug": "aurosociety",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 727,
@@ -15,7 +15,9 @@
     "timeWeek": 806,
     "timeMonth": 727,
     "timeYear": 727,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-18": 1
+    }
   },
   {
     "name": "Aurobharati",
@@ -77,11 +79,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sanjeevanpalliativecare.org.ico",
     "slug": "sanjeevan",
     "status": "up",
-    "uptime": "12.54%",
+    "uptime": "15.81%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "36.88%",
-    "uptimeMonth": "12.54%",
-    "uptimeYear": "12.54%",
+    "uptimeWeek": "48.27%",
+    "uptimeMonth": "15.81%",
+    "uptimeYear": "15.81%",
     "time": 1306,
     "timeDay": 1293,
     "timeWeek": 1306,
