@@ -60,9 +60,9 @@
     "url": "https://journal.aurobharati.in",
     "icon": "https://icons.duckduckgo.com/ip3/journal.aurobharati.in.ico",
     "slug": "renaissance",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,7 +71,9 @@
     "timeWeek": 2023,
     "timeMonth": 2005,
     "timeYear": 2005,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-27": 0
+    }
   },
   {
     "name": "Sanjeevan",
@@ -79,11 +81,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sanjeevanpalliativecare.org.ico",
     "slug": "sanjeevan",
     "status": "up",
-    "uptime": "39.18%",
+    "uptime": "39.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "39.18%",
-    "uptimeYear": "39.18%",
+    "uptimeMonth": "39.71%",
+    "uptimeYear": "39.71%",
     "time": 1346,
     "timeDay": 1395,
     "timeWeek": 1363,
