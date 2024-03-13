@@ -162,19 +162,19 @@
     "url": "https://internationalgh.com/",
     "icon": "https://icons.duckduckgo.com/ip3/internationalgh.com.ico",
     "slug": "ingh",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1735,
-    "timeDay": 1657,
-    "timeWeek": 1790,
-    "timeMonth": 1954,
-    "timeYear": 1735,
+    "time": 1732,
+    "timeDay": 1438,
+    "timeWeek": 1702,
+    "timeMonth": 1923,
+    "timeYear": 1732,
     "dailyMinutesDown": {
-      "2024-03-13": 0
+      "2024-03-13": 9
     }
   },
   {
