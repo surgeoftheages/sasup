@@ -26,19 +26,19 @@
     "url": "https://aurobharati.in",
     "icon": "https://icons.duckduckgo.com/ip3/aurobharati.in.ico",
     "slug": "aurobharati",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "97.04%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.99%",
     "time": 2261,
-    "timeDay": 2066,
-    "timeWeek": 1836,
-    "timeMonth": 1865,
+    "timeDay": 2205,
+    "timeWeek": 1900,
+    "timeMonth": 1880,
     "timeYear": 2261,
     "dailyMinutesDown": {
-      "2024-04-03": 0
+      "2024-04-03": 43
     }
   },
   {
