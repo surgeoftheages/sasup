@@ -26,9 +26,9 @@
     "url": "https://aurobharati.in",
     "icon": "https://icons.duckduckgo.com/ip3/aurobharati.in.ico",
     "slug": "aurobharati",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -37,7 +37,9 @@
     "timeWeek": 1836,
     "timeMonth": 1865,
     "timeYear": 2261,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-03": 0
+    }
   },
   {
     "name": "AuroPublications",
@@ -90,11 +92,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sanjeevanpalliativecare.org.ico",
     "slug": "sanjeevan",
     "status": "up",
-    "uptime": "76.57%",
+    "uptime": "76.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.41%",
     "uptimeMonth": "99.59%",
-    "uptimeYear": "76.57%",
+    "uptimeYear": "76.62%",
     "time": 1866,
     "timeDay": 2561,
     "timeWeek": 1783,
