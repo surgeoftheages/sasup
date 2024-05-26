@@ -47,18 +47,19 @@
     "url": "https://auropublications.org",
     "icon": "https://icons.duckduckgo.com/ip3/auropublications.org.ico",
     "slug": "auro-publications",
-    "status": "up",
-    "uptime": "99.88%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.74%",
-    "uptimeYear": "99.88%",
+    "status": "down",
+    "uptime": "99.87%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.87%",
     "time": 1804,
     "timeDay": 1652,
     "timeWeek": 1832,
     "timeMonth": 1894,
     "timeYear": 1804,
     "dailyMinutesDown": {
+      "2024-05-26": 5,
       "2024-05-14": 116,
       "2024-03-02": 270,
       "2024-03-01": 102
@@ -73,12 +74,12 @@
     "uptime": "99.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.51%",
+    "uptimeMonth": "98.72%",
     "uptimeYear": "99.73%",
     "time": 2275,
     "timeDay": 2493,
     "timeWeek": 2377,
-    "timeMonth": 2479,
+    "timeMonth": 2472,
     "timeYear": 2275,
     "dailyMinutesDown": {
       "2024-05-17": 79,
@@ -99,15 +100,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/sanjeevanpalliativecare.org.ico",
     "slug": "sanjeevan",
     "status": "up",
-    "uptime": "80.98%",
+    "uptime": "81.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.51%",
-    "uptimeYear": "80.98%",
+    "uptimeMonth": "98.72%",
+    "uptimeYear": "81.01%",
     "time": 1988,
     "timeDay": 2525,
     "timeWeek": 2469,
-    "timeMonth": 2390,
+    "timeMonth": 2316,
     "timeYear": 1988,
     "dailyMinutesDown": {
       "2024-05-17": 79,
@@ -178,28 +179,30 @@
     "url": "https://internationalgh.com/",
     "icon": "https://icons.duckduckgo.com/ip3/internationalgh.com.ico",
     "slug": "ingh",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1798,
     "timeDay": 1830,
     "timeWeek": 1757,
     "timeMonth": 2079,
     "timeYear": 1798,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-26": 3
+    }
   },
   {
     "name": "Sea Side GH",
     "url": "https://seasidegh.com/",
     "icon": "https://icons.duckduckgo.com/ip3/seasidegh.com.ico",
     "slug": "sea-side-gh",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2090,
@@ -207,16 +210,18 @@
     "timeWeek": 2276,
     "timeMonth": 2378,
     "timeYear": 2090,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-26": 2
+    }
   },
   {
     "name": "Retreat GH",
     "url": "http://theretreatgh.com/",
     "icon": "https://icons.duckduckgo.com/ip3/theretreatgh.com.ico",
     "slug": "retreat-gh",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -225,6 +230,8 @@
     "timeWeek": 2770,
     "timeMonth": 2781,
     "timeYear": 2895,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-26": 0
+    }
   }
 ]
