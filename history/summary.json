@@ -154,18 +154,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/internationalgh.com.ico",
     "slug": "ingh",
     "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.25%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.95%",
+    "uptime": "99.96%",
+    "uptimeDay": "94.25%",
+    "uptimeWeek": "98.43%",
+    "uptimeMonth": "99.64%",
+    "uptimeYear": "99.94%",
     "time": 1780,
     "timeDay": 578,
     "timeWeek": 1608,
     "timeMonth": 1602,
     "timeYear": 1742,
     "dailyMinutesDown": {
-      "2025-04-28": 0,
+      "2025-04-29": 80,
+      "2025-04-28": 2,
       "2025-04-23": 76,
       "2024-05-26": 162
     }
@@ -177,9 +178,9 @@
     "slug": "sea-side-gh",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1850,
     "timeDay": 1402,
@@ -187,7 +188,6 @@
     "timeMonth": 1487,
     "timeYear": 1737,
     "dailyMinutesDown": {
-      "2025-04-28": 9,
       "2024-05-26": 161
     }
   },
