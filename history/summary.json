@@ -14,7 +14,7 @@
     "timeDay": 762,
     "timeWeek": 746,
     "timeMonth": 745,
-    "timeYear": 834,
+    "timeYear": 835,
     "dailyMinutesDown": {
       "2025-01-07": 28,
       "2024-05-24": 16
@@ -78,7 +78,7 @@
     "timeDay": 1388,
     "timeWeek": 1389,
     "timeMonth": 1330,
-    "timeYear": 1471,
+    "timeYear": 1469,
     "dailyMinutesDown": {
       "2024-12-16": 19,
       "2024-12-10": 25,
@@ -90,19 +90,19 @@
     "url": "https://journal.aurobharati.in",
     "icon": "https://icons.duckduckgo.com/ip3/journal.aurobharati.in.ico",
     "slug": "renaissance",
-    "status": "down",
-    "uptime": "99.74%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.73%",
+    "uptimeDay": "98.79%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.74%",
-    "time": 2340,
-    "timeDay": 1265,
-    "timeWeek": 1407,
-    "timeMonth": 1379,
-    "timeYear": 2288,
+    "time": 2337,
+    "timeDay": 1240,
+    "timeWeek": 1383,
+    "timeMonth": 1373,
+    "timeYear": 2285,
     "dailyMinutesDown": {
-      "2025-05-23": 1,
+      "2025-05-23": 17,
       "2024-10-22": 180,
       "2024-10-21": 260,
       "2024-10-08": 50,
@@ -130,7 +130,7 @@
     "timeDay": 2628,
     "timeWeek": 2426,
     "timeMonth": 2594,
-    "timeYear": 2326,
+    "timeYear": 2327,
     "dailyMinutesDown": {
       "2024-10-22": 180,
       "2024-10-21": 260,
@@ -158,7 +158,7 @@
     "timeDay": 2028,
     "timeWeek": 2368,
     "timeMonth": 1857,
-    "timeYear": 1729,
+    "timeYear": 1727,
     "dailyMinutesDown": {
       "2025-05-19": 19,
       "2025-04-29": 103,
@@ -182,7 +182,7 @@
     "timeDay": 950,
     "timeWeek": 1324,
     "timeMonth": 1429,
-    "timeYear": 1677,
+    "timeYear": 1678,
     "dailyMinutesDown": {
       "2024-05-26": 161
     }
