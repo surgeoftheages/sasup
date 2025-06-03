@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 803,
-    "timeDay": 943,
+    "timeDay": 741,
     "timeWeek": 744,
-    "timeMonth": 729,
-    "timeYear": 826,
+    "timeMonth": 732,
+    "timeYear": 824,
     "dailyMinutesDown": {
       "2025-01-07": 28
     }
@@ -27,14 +27,14 @@
     "status": "up",
     "uptime": "99.19%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "95.57%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "96.23%",
     "uptimeYear": "98.58%",
-    "time": 1937,
-    "timeDay": 1671,
-    "timeWeek": 1884,
-    "timeMonth": 1759,
-    "timeYear": 1888,
+    "time": 1936,
+    "timeDay": 1656,
+    "timeWeek": 1774,
+    "timeMonth": 1762,
+    "timeYear": 1887,
     "dailyMinutesDown": {
       "2025-05-26": 533,
       "2025-05-25": 1031,
@@ -71,16 +71,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/auropublications.org.ico",
     "slug": "auro-publications",
     "status": "up",
-    "uptime": "99.92%",
+    "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1569,
-    "timeDay": 1229,
-    "timeWeek": 1303,
-    "timeMonth": 1306,
-    "timeYear": 1459,
+    "timeDay": 1330,
+    "timeWeek": 1266,
+    "timeMonth": 1305,
+    "timeYear": 1458,
     "dailyMinutesDown": {
       "2024-12-16": 19,
       "2024-12-10": 25
@@ -97,11 +97,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.76%",
-    "time": 2306,
-    "timeDay": 1103,
-    "timeWeek": 1461,
-    "timeMonth": 1473,
-    "timeYear": 2256,
+    "time": 2305,
+    "timeDay": 1370,
+    "timeWeek": 1419,
+    "timeMonth": 1483,
+    "timeYear": 2253,
     "dailyMinutesDown": {
       "2025-05-25": 22,
       "2025-05-23": 17,
@@ -111,8 +111,7 @@
       "2024-10-01": 277,
       "2024-07-26": 24,
       "2024-07-01": 23,
-      "2024-06-25": 364,
-      "2024-06-03": 23
+      "2024-06-25": 364
     }
   },
   {
@@ -121,15 +120,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/sanjeevanpalliativecare.org.ico",
     "slug": "sanjeevan",
     "status": "up",
-    "uptime": "91.83%",
+    "uptime": "91.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
-    "time": 2288,
-    "timeDay": 2756,
-    "timeWeek": 2502,
-    "timeMonth": 2487,
+    "time": 2289,
+    "timeDay": 3050,
+    "timeWeek": 2512,
+    "timeMonth": 2522,
     "timeYear": 2331,
     "dailyMinutesDown": {
       "2024-10-22": 180,
@@ -137,8 +136,7 @@
       "2024-10-08": 50,
       "2024-10-01": 277,
       "2024-07-26": 24,
-      "2024-06-25": 364,
-      "2024-06-03": 23
+      "2024-06-25": 364
     }
   },
   {
@@ -152,10 +150,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
-    "time": 1775,
-    "timeDay": 1376,
-    "timeWeek": 1647,
-    "timeMonth": 1820,
+    "time": 1776,
+    "timeDay": 2422,
+    "timeWeek": 1844,
+    "timeMonth": 1837,
     "timeYear": 1717,
     "dailyMinutesDown": {
       "2025-05-19": 19,
@@ -175,11 +173,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1813,
-    "timeDay": 988,
-    "timeWeek": 1398,
-    "timeMonth": 1489,
-    "timeYear": 1656,
+    "time": 1810,
+    "timeDay": 1039,
+    "timeWeek": 1223,
+    "timeMonth": 1477,
+    "timeYear": 1653,
     "dailyMinutesDown": {}
   },
   {
@@ -193,11 +191,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2318,
-    "timeDay": 2011,
-    "timeWeek": 1580,
-    "timeMonth": 1793,
-    "timeYear": 2140,
+    "time": 2313,
+    "timeDay": 742,
+    "timeWeek": 1424,
+    "timeMonth": 1789,
+    "timeYear": 2135,
     "dailyMinutesDown": {}
   }
 ]
