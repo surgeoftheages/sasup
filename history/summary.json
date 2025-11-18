@@ -36,7 +36,7 @@
     "timeMonth": 122,
     "timeYear": 1700,
     "dailyMinutesDown": {
-      "2025-11-18": 920,
+      "2025-11-18": 941,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
@@ -281,7 +281,7 @@
     "timeMonth": 1817,
     "timeYear": 1759,
     "dailyMinutesDown": {
-      "2025-11-18": 920,
+      "2025-11-18": 941,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
@@ -445,7 +445,7 @@
     "timeMonth": 1559,
     "timeYear": 1640,
     "dailyMinutesDown": {
-      "2025-11-18": 920,
+      "2025-11-18": 941,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
@@ -593,17 +593,17 @@
     "url": "http://theretreatgh.com/",
     "icon": "https://icons.duckduckgo.com/ip3/theretreatgh.com.ico",
     "slug": "retreat-gh",
-    "status": "down",
+    "status": "up",
     "uptime": "99.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1954,
-    "timeDay": 2921,
-    "timeWeek": 2339,
-    "timeMonth": 1577,
-    "timeYear": 1910,
+    "time": 1953,
+    "timeDay": 2763,
+    "timeWeek": 2299,
+    "timeMonth": 1583,
+    "timeYear": 1909,
     "dailyMinutesDown": {}
   }
 ]
